@@ -1,0 +1,15 @@
+fct_reorder
+geom_point
+fct_lump
+summarize
+geom_line
+facet_wrap
+geom_text
+geom_col
+mutate
+str_remove
+semi_join
+reorder_within
+inner_join
+gather
+extract
